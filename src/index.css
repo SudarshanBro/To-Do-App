@@ -1,0 +1,14 @@
+.todoapp__deletecontainer {
+  margin: 12px 20px;
+  text-align: left;
+}
+.todoapp__container {
+  text-align: left;
+}
+input {
+  text-align: left;
+  width: 100%;
+}
+.btns {
+  min-width: 80px;
+}
